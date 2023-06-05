@@ -1,1 +1,1 @@
-# rms_system
+# Recruitment management system
